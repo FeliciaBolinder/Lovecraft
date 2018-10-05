@@ -1,0 +1,53 @@
+body {
+background-color: #bee0d7;
+
+}
+
+main{
+width: 70%;
+margin: 0 auto;
+
+}
+
+article {
+ margin-left: 20%;
+ width: 80%;
+}
+
+nav{
+	float: left;
+	width: 10%;
+	padding: 2%;
+	margin-top: 10%;
+
+}
+
+a {
+	text.decoration:none;
+	font.size: 2em;
+
+}
+
+
+h1 {
+
+        font-family: 'Noto Serif JP', sans-serif;
+        font-size: 3em;
+    }
+
+    p {
+
+        font-family: 'Noto Serif JP', sans-serif;
+    }
+
+ h2 {
+ 	 font-family: 'Noto Serif JP', sans-serif;
+        font-size: 2em;
+    }
+ }
+
+    blockquote {
+
+    }
+
+  
